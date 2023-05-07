@@ -1,0 +1,15 @@
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.csproj.AssemblyReference.cache
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.AssemblyInfoInputs.cache
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.AssemblyInfo.cs
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.csproj.CoreCompileInputs.cache
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\bin\Debug\net6.0\ZaverecnaPrace.exe
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\bin\Debug\net6.0\ZaverecnaPrace.deps.json
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\bin\Debug\net6.0\ZaverecnaPrace.runtimeconfig.json
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\bin\Debug\net6.0\ZaverecnaPrace.dll
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\bin\Debug\net6.0\ZaverecnaPrace.pdb
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.dll
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\refint\ZaverecnaPrace.dll
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.pdb
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ZaverecnaPrace.genruntimeconfig.cache
+C:\Users\loren\Dropbox\prvniaplikace\ZaverecnaPrace\ZaverecnaPrace\obj\Debug\net6.0\ref\ZaverecnaPrace.dll
